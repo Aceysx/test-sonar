@@ -1,4 +1,4 @@
 package cn.thoughtworks.academy.marsrover;
 
-public class RoverNotFoundException extends Throwable {
+public class RoverNotFoundException extends Exception {
 }
